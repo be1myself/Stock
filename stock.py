@@ -139,7 +139,6 @@ def K(ohlc, factor):
     intervals = [2, 5, 10, 20]
 
 
-
 if __name__ == '__main__':
     WX.PATH['STOCK_OHLC'] = 'stock/2010-2019/'
     code = '300418.SZ'
